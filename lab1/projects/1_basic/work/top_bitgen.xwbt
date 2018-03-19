@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\materija\RA247-2016\lab1\projects\1_basic\work\top.ncd
+OUTFILE=C:\materija\RA247-2016\lab1\projects\1_basic\work\top.bit
+FAMILY=Spartan6
+PART=xc6slx45-2fgg676
+WORKINGDIR=C:\materija\RA247-2016\lab1\projects\1_basic\work
+LICENSE=ISE
+USER_INFO=209858334_178080923_210593072_268

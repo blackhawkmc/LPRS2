@@ -1,0 +1,16 @@
+11:54:54.563 INFO  - Processing command line option -hwspec C:\materija\RA247-2016\lab3\SDK\SDK_Export\hw\system.xml. 
+11:59:26.876 INFO  - FPGA configured successfully with bitstream "C:/materija/RA247-2016/lab3/SDK/SDK_Workspace/lab3_hw_platform/download.bit" 
+12:05:07.125 ERROR - Checking FPGA configuration failed..Connection to Board Failed
+
+
+    Failed to Open JTAG Cable
+    Cable target is not connected to the host
+ 
+12:09:20.586 INFO  - FPGA configured successfully with bitstream "C:/materija/RA247-2016/lab3/SDK/SDK_Workspace/lab3_hw_platform/download.bit" 
+12:09:41.744 ERROR - Unexpected error while launching program. com.xilinx.sdk.targetmanager.TMException: MicroBlaze is under RESET. Check if the Reset input to MicroBlaze and its Bus Interfaces are connected properly
+    UNABLE to STOP MicroBlaze
+
+	at com.xilinx.sdk.targetmanager.internal.TM.connectToProcessor(Unknown Source)
+	at com.xilinx.sdk.debug.core.internal.AppRunner.run(Unknown Source)
+
+12:13:14.944 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
